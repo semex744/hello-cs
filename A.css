@@ -1,17 +1,17 @@
-.h1{
-    background-color: black;
-    color: tomato;
-    font-size: 30px;
-    padding-left: 50px;
-
+.h1 {
+  background-color: black;
+  color: tomato;
+  font-size: 30px;
+  padding-left: 50px;
 }
-.body{
-    background-color: rgb(127, 213, 240);
-    color: blue;
-}
-.paragraph{
-    color: rgb(36, 35, 34);
-    font-size: 30px;
-    padding-left: 20px;
 
+.body {
+  background-color: rgb(127, 213, 240);
+  color: blue;
+}
+
+.paragraph {
+  color: rgb(36, 35, 34);
+  font-size: 30px;
+  padding-left: 20px;
 }
